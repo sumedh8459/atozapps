@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+   background-color: rgb(36, 36, 36);
+   color: aliceblue;
+  }
+  
+  #quote {
+    display: flex;
+    height: 10em;
+    width: 25em;
+    font-size: 1.5em;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  #tweet {
+    padding: 1.3em;
+  }
+  .btn{
+      font-size: 20px;
+      border-radius: 8px;
+      outline: none;
+      padding: 10px;
+  }
+  .btn:hover{
+      color: aliceblue;
+      background-color: rgb(79, 31, 211);
+      transition: 0.5s;
+  }

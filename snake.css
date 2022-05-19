@@ -1,0 +1,12 @@
+body {
+    text-align:center;
+    font-family: helvetica;
+    background-color: black;
+    color: aliceblue;
+  }
+  canvas {
+    border: 2px solid rgb(151, 149, 149);
+  }
+  .snake{
+      font-size: 30px;
+  }

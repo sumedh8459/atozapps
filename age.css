@@ -1,0 +1,49 @@
+body {
+    font-family: 'Josefin Sans', sans-serif !important;
+    background-color: rgb(41, 41, 41);
+    color: aliceblue;
+  }
+  
+  nav {
+    margin-top: 2em;
+    margin-bottom: 2em;
+  }
+  
+  nav a {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.5em;
+    padding-right: .5em;
+  }
+  
+  nav a:hover {
+    text-decoration: none;
+    border-left: .2em solid #0d025e;
+    color: #0d025e;
+  }
+  
+  h2 {
+    margin-bottom: 1.5em;
+    font-weight: 700;
+  }
+  h1{
+      text-align: center;
+      margin: 40px;
+      font-size: 50px;
+  }
+  .container{
+      width: 100%;
+      justify-content: center;
+      align-items: center;
+  }
+  .text-center{
+      text-align: center;
+  }
+  .btn{
+      font-size: 25px;
+      background-color: rgb(18, 105, 171);
+      color: white;
+  }
+  .btn:hover{
+      background-color: white;
+      color: blue;
+  }

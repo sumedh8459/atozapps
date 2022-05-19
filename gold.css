@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+body {
+  background-color: #222;
+  color: #fff;
+  width: 1000px;
+  margin: 0px auto;
+}
+
+h1 {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #fff;
+}
+
+body, input {
+  color: #ccc;
+  font-family: 'Lato', sans-serif;
+}
+
+input {
+  color: #ccc;
+  background-color: #00000000;
+  border: 0px;
+  border-bottom: 3px #aaa solid;
+  border-color: #444;
+  width: 100px;
+  text-align: center;
+}
+
+#timeInput, #timeInput input {
+  font-size: 1.3em;
+}
+
+h1, p {
+  text-align: center;
+}
+
+/*
+#chartWrapper {
+  width: 1000px;
+}
+*/
